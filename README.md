@@ -2,3 +2,4 @@
 Elmedina 
 Kastrati
 YH24
+[databas inlämning1.zip](https://github.com/user-attachments/files/19445052/databas.inlamning1.zip)
