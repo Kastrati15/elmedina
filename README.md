@@ -7,7 +7,8 @@ YH24
 Elmedina 
 Kastrati 
 YH24 
-inlämning2 [bokhandel-inlämmning2.zip](https://github.com/user-attachments/files/19476975/bokhandel-inlammning2.zip)
+inlämning2 
+ng2.zip](https://github.com/user-attachments/files/19476975/bokhandel-inlammning2.zip)
 [readme.md](https://github.com/user-attachments/files/19487378/readme.md)# Bokhandel
 ![bokhandel-inläming2 drawio](https://github.com/user-attachments/assets/bf461769-772b-4f60-9083-15ce71925edd)
 
@@ -60,3 +61,7 @@ Databasen består av följande tabeller:
 
 
 
+
+The Office projektet
+
+[the-office-projekt-er-diagram-readme.zip](https://github.com/user-attachments/files/19541265/the-office-projekt-er-diagram-readme.zip)
